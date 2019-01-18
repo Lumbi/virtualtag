@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  virtualtag
+
+  Created by Gabriel Lumbi on 2015-03-10.
+  Copyright (c) 2015 Gabriel Lumbi. All rights reserved.
+*/
+
+
+"kLoginTitle" = "What's your writer name?";
+"kLoginConnect" = "Start tagging";
+"kLoginConnectUserNameTooShortErrorMessage" = "Your name is too short!\nMake it at least 6 characters.";
+"kLoginConnectUserNameTakenErrorMessage" = "Someone already took that name";
+
+"kNetworkErrorTitle" = "Darn!";
+"kNetworkErrorMessage" = "There was an error while connecting to the server.";
+"kServerErrorMessage" = "Servers are under maintenance. Try again later!";
+
+"kFindPieces" = "Find Pieces";
+
+"kTools" = "Tools";
+
+"kCreateVirtualTagDoneButton" = "Done";
+
+"kCreateVirtualTagLocationErrorTitle" = "Location Services Disabled";
+"kCreateVirtualTagLocationErrorMessage" = "Your location is needed to share your virtual tag and let other people find it.";
+"kCreateVirtualTagLocationOpenSettings" = "Settings";
+
+"kCreateVirtualTagTitleMessage" = "Name Your Masterpiece";
+
+"kCreateVirtualTagUploadSuccessTitle" = "Masterpiece Uploaded";
+"kCreateVirtualTagUploadSuccessMessage" = "Great! Your masterpiece is being processed. It might take a few minutes before other users can see it.";
+
+"kCreateVirtualTagUploadFailedTitle" = "Snap!";
+"kCreateVirtualTagUploadFailedMessage" = "There was a problem while uploading your masterpiece. Try again later. Sorry!";
+
+"kInfoVirtualTagNameHeader" = "this piece is called";
+"kinfoVirtualTagAuthorHeader" = "created by";
+"kInfoVirtualTagExpiryHeader" = "expires in";
+
+"kARInitErrorTitle" = "Bummer!";
+"kARInitErrorMessage" = "There was a problem while starting up the Augmented Reality Sorry!";
+
+"kDay" = "day";
+"kHour" = "hour";
+"kMinute" = "minute";
+"kDayPlurar" = "days";
+"kHourPlurar" = "hours";
+"kMinutePlurar" = "minutes";
+"kExpiryTimeFormat" = "%d %@ left";
+
+"kBy" = "by";
+"kDismiss" = "Dismiss";
+"kOK" = "OK";
+"kCancel" = "Cancel";
+"kAwesome" = "Awesome";
+"kBack" = "Back";
